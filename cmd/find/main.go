@@ -5,7 +5,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/mokan-r/day02/internal/utils"
+	"github.com/mokan-r/go-cli-tools/internal/utils"
 )
 
 func printFiles(path string, args *utils.Args) {

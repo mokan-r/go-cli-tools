@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/mokan-r/day02/internal/utils"
+	"github.com/mokan-r/go-cli-tools/internal/utils"
 )
 
 func root(args []string) (string, error) {
